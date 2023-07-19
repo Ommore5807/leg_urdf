@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'lin_lower_rod_j', 'lin_lower_body_j', 'bracket_LU_j', 'leg_lower_j', 'lin_upper_rod_j', 'lin_upper_body_j', 'bracket_UU_J', 'leg_upper_j', ]
